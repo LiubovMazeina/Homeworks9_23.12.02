@@ -1,0 +1,14 @@
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/bin/Debug/net8.0/Homeworks1
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/bin/Debug/net8.0/Homeworks1.deps.json
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/bin/Debug/net8.0/Homeworks1.runtimeconfig.json
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/bin/Debug/net8.0/Homeworks1.dll
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/bin/Debug/net8.0/Homeworks1.pdb
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/obj/Debug/net8.0/Homeworks1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/obj/Debug/net8.0/Homeworks1.AssemblyInfoInputs.cache
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/obj/Debug/net8.0/Homeworks1.AssemblyInfo.cs
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/obj/Debug/net8.0/Homeworks1.csproj.CoreCompileInputs.cache
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/obj/Debug/net8.0/Homeworks1.dll
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/obj/Debug/net8.0/refint/Homeworks1.dll
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/obj/Debug/net8.0/Homeworks1.pdb
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/obj/Debug/net8.0/Homeworks1.genruntimeconfig.cache
+/Users/lubovmazeina/Documents/SemC#/Homeworks/Homeworks1/obj/Debug/net8.0/ref/Homeworks1.dll
